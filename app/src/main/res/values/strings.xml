@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FibonacciApp</string>
+    <string-array name="algorithm_array">
+        <item>Đệ quy</item>
+        <item>Đệ quy với vòng lặp</item>
+        <item>Duyệt lặp</item>
+        <item>Duyệt lặp nhanh hơn</item>
+        <item>Lặp nhanh bằng BigInteger</item>
+        <item>Đệ quy nhanh bằng BigInteger</item>
+        <item>Phân bổ với BigInteger</item>
+        <item>Đệ quy nhanh với BigInteger và nguyên thuỷ</item>
+        <item>Đệ quy với BigInteger và dùng bảng tra cứu</item>
+    </string-array>
+</resources>
